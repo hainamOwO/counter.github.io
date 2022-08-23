@@ -1,0 +1,14 @@
+p{
+  text-align: center;
+  font-size: 60px;
+}
+
+.command{
+  display: flex;
+  justify-content: center;
+}
+
+button{
+  margin-left:10px;
+  margin-right:10px;
+}
