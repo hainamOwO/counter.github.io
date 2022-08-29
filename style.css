@@ -1,4 +1,4 @@
-p{
+.point{
   text-align: center;
   font-size: 60px;
 }
@@ -9,6 +9,15 @@ p{
 }
 
 button{
+  padding:100px 100px;
+}
+
+button{
   margin-left:10px;
   margin-right:10px;
+}
+
+#clock{
+  text-align: center;
+  font-size: 30px;
 }
